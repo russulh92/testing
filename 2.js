@@ -4,4 +4,3 @@ class Person {
     }
 }
 let per2 = new Person("John");
-console.log(per2.name);
