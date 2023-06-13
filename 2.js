@@ -3,6 +3,5 @@ class Person {
         this.name = name_;
     }
 }
-
-let per1 = new Person("John");
-console.log(per1.name);
+let per2 = new Person("John");
+console.log(per2.name);
